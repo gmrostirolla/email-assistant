@@ -12,7 +12,7 @@
 ## 📸 Demo
 
 <!-- Substitua pelo GIF gravado do seu app rodando -->
-![demo](docs/demo.gif)
+![demo](docs/1.gif)
 
 ---
 
